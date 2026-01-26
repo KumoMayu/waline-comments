@@ -1,1 +1,2 @@
-objectId,display_name,email,password,type,url,avatar,label,github,twitter,facebook,google,weibo,qq,createdAt,updatedAt
+display_name,email,url,avatar,github,passowrd,type,id
+KumoMayu,kumomayu@outlook.com,https://github.com/KumoMayu,https://avatars.githubusercontent.com/u/211519147?v=4,KumoMayu,$2a$08$fM9FMlqdxspvLqVS59op9enWo5J0cMbOWH0D8lQDUfPm01/SqzXYi,administrator,tz21vqxhmmn
